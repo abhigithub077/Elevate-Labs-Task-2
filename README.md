@@ -1,7 +1,7 @@
 # Elevate-Labs-Task-2
 I used PowerBI to analyze and visualize the sales data of a superstore. I included key points such as total revenue, top selling categories and products, etc.. 
 
-#📊 Superstore Sales Dashboard
+## 📊 Superstore Sales Dashboard
 📌 Overview
 
 This dashboard provides a quick analysis of sales, profit, discounts, and customer insights for the Superstore dataset. It highlights key metrics, trends, and business opportunities.
@@ -13,7 +13,7 @@ This dashboard provides a quick analysis of sales, profit, discounts, and custom
 ![image alt](https://github.com/abhigithub077/Elevate-Labs-Task-2/blob/d08aa0f5ee789b8791a769d6b00049811e0632e9/EL-2-Dash3.png)
 
 
-##📈 Charts & Insights
+## 📈 Charts & Insights
   🔹 KPIs (Sales, Profit, Products, Discounts)
 
   High-level performance metrics.
@@ -50,7 +50,7 @@ This dashboard provides a quick analysis of sales, profit, discounts, and custom
 
   Insight: Strong seasonality with peaks in Nov–Dec.
 
-##📊 Business Analysis
+## 📊 Business Analysis
 
 Strengths: Technology & Consumer segments lead; West region strong.
 

@@ -6,9 +6,11 @@ I used PowerBI to analyze and visualize the sales data of a superstore. I includ
 
 This dashboard provides a quick analysis of sales, profit, discounts, and customer insights for the Superstore dataset. It highlights key metrics, trends, and business opportunities.
 
-![image alt]()
+![image alt](https://github.com/abhigithub077/Elevate-Labs-Task-2/blob/main/EL-2-Dash1.png)
 
-![image alt]()
+![image alt](https://github.com/abhigithub077/Elevate-Labs-Task-2/blob/db6033c4ec1036dc3a9c8f19330c0c4a42290533/EL-2-Dash2.png)
+
+![image alt](https://github.com/abhigithub077/Elevate-Labs-Task-2/blob/d08aa0f5ee789b8791a769d6b00049811e0632e9/EL-2-Dash3.png)
 
 
 ##📈 Charts & Insights
